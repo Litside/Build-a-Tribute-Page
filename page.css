@@ -1,0 +1,43 @@
+.div1{
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:80px;
+  background-color:#e0e0e0;
+  border-radius:5px
+}
+h1{
+  font-size:70px;
+  padding-top:50px; 
+}
+h2{
+  padding-top:10px
+}
+.div2{
+  margin-left:60px;
+  margin-right:60px;
+  background-color:white
+}
+.img1{
+  width:95%   
+}
+.div3{
+  padding-top:8px;
+  padding-bottom:2px
+}
+.div4{
+  margin-left:270px;
+  margin-right:270px;
+  margin-top:50px;
+  padding-bottom:50px
+}
+.p1{
+  font-size:20px
+}
+.p2{
+  font-size:25px
+}
+.hr1{
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:30px
+}
